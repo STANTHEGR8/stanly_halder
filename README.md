@@ -5,7 +5,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://stanthegr8.github.io/stanly_halder/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://stanthegr8.github.io/stanly_halder/" target="_blank"><img src="assets/portfolio.jpg">
   </a>
   </kbd>
 </p>
