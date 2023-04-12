@@ -1,11 +1,11 @@
 # Personal Portfolio ⚡️ 
 
-> https://stanthegr8.github.io/stanly_halder.github.io/
+>https://stanthegr8.github.io/stanly_halder/
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://stanthegr8.github.io/stanly_halder.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://stanthegr8.github.io/stanly_halder/" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
@@ -25,7 +25,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://stanly_halder.github.io/)**
+To view a live example, **[click here](https://stanthegr8.github.io/stanly_halder/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
